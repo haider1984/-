@@ -1,5 +1,5 @@
-قـــــنأْةَ ألسـورسَ ✋🏿👇🏻Source channel
-# [ASD_KARBALA](https://telegram.me/S94IQ)
+حساب  ألسـورسَ ✋🏿👇🏻✍
+#✍ابـ௵ــن﴿﴾ﺄلعـ௵ـماره https://telegram.me/ASDFRTQ
 
 
 *******************************************************************
@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/SAJJAD94/ASD_KARBALA.git
+git clone https://github.com/haider1984.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd ASD_KARBALA
+cd ASD_haider
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
